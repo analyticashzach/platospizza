@@ -1,0 +1,50 @@
+# Changelog
+
+This file contains the notable changes to the project
+
+Version 1.2 (11-18-2022)
+
+## New
+-- table displaying monthly sales
+
+## Changes 
+
+## Fixes
+
+## Queries
+-- order totals by month
+-- order trends by date, quantity desc
+
+
+Version 1.1 (11-16-2022)
+
+## New
+
+## Changes 
+
+## Fixes
+
+## Queries
+-- variety of pizza types
+-- count of pizza types
+-- order by pizza size
+-- dates with the most and least orders
+
+
+Version 1.0 (11-14-2022)
+
+## New
+-- uploaded all plato's pizza tables 
+
+## Changes 
+-- formatted date and time to correct data types
+
+## Fixes
+-- correctly connected primary and foreign keys in table schema
+
+## Queries
+-- total annual orders and revenue 
+-- total and average customers per day
+-- average number of pizzas sold
+-- best selling and worst selling pizzas by quantity sold and revenue 
+-- peak times of sales
